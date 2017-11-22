@@ -1,2 +1,6 @@
 # hello-mr-world
 just another repo
+
+mixed reality legnar... mr-legnar...
+
+samsung odyssey... surface studio...
